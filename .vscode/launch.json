@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "quintodiaforearray",
+            "request": "launch",
+            "mainClass": "aula.andres.quintodia.quintodiaforearray",
+            "projectName": "java_3aa3dd71"
+        },
+        {
+            "type": "java",
             "name": "ContaBanco",
             "request": "launch",
             "mainClass": "aula.andres.quintodia.projeto.ContaBanco",
