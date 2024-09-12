@@ -32,5 +32,6 @@ public class quintodiascanner {
         System.out.println("Obrigado pelo palpite, " + nome + " " + sobrenome);
         System.out.println("Tenha um bom jogo e até a próxima.");
         System.out.println("Vaaai São Paulo");
+        myscanner.close();
     }
 }

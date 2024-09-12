@@ -10,13 +10,9 @@ public class quartodia {
 
     }
     public static boolean validar(String nome, String nome2){
-        if (nome.equals(nome2)){
-            return true;
-        }
-        else {
-            return false;
-        }
+            return nome.equals(nome2);
     }
+    
     public static void imprimir(String nome, String nome2){
         boolean result = validar(nome,nome2);
         if(result){
